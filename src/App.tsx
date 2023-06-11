@@ -4,7 +4,8 @@ import CountdownPage from "./containers/CountdownPage";
 import PuzzlePage from "./containers/PuzzlePage";
 
 // const RELEASE_DATE = moment("2023-06-13 18:15:00");
-const RELEASE_DATE = moment("2023-06-11 19:29:30");
+const RELEASE_DATE = moment("2023-06-13 18:15:00");
+console.log(moment());
 
 function App() {
   const [isCounting, setIsCounting] = useState(true);
