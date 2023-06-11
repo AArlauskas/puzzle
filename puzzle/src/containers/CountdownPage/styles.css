@@ -1,0 +1,21 @@
+.countdown-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("../../assets/partyPhoto.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.countdown {
+  font-size: 48px;
+  font-family: "LED Digital 7", sans-serif;
+  letter-spacing: 20px;
+  color: crimson;
+}

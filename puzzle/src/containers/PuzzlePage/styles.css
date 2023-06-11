@@ -1,0 +1,115 @@
+.puzzles-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  height: 100vh;
+}
+
+.puzzle-0 p {
+  font-family: "Star Wars", sans-serif;
+  color: yellow;
+  font-size: 20px;
+}
+
+.puzzle-step-0 {
+  background-image: url("../../assets/puzzle-0.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.puzzle-1 p {
+  font-family: "Dot Matrix", sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.puzzle-step-1 {
+  background-image: url("../../assets/puzzle-1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.puzzle-2 p {
+  font-family: "h Hangulan", sans-serif;
+  font-size: 16px;
+  color: white;
+}
+
+.puzzle-step-2 {
+  background-image: url("../../assets/puzzle-2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.puzzle-3 p {
+  font-family: "TeleNeo Office", sans-serif;
+  font-size: 24px;
+  color: greenyellow;
+  font-weight: 700;
+}
+
+.puzzle-step-3 {
+  background-image: url("../../assets/puzzle-3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.puzzle-4 p {
+  font-family: "Forbidden Myth", sans-serif;
+  font-size: 22px;
+  color: white;
+}
+
+.puzzle-step-4 {
+  background-image: url("../../assets/puzzle-4.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.puzzle-5 p {
+  font-family: "Star Jedi", sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+.puzzle-step-5 {
+  background-image: url("../../assets/final.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .rs-panel {
+  min-width: 450px;
+} */
